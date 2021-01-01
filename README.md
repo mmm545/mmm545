@@ -1,5 +1,5 @@
 Hi\
-I'm mmm545 (m m m Five Four Five/Fifty Four Five) a shitty name. 13 year old idot
+I'm mmm545 (m m m Five Four Five/Fifty Four Five) a shitty name. 13 year old idot.
 ### Languages
 - PHP
 - Java
